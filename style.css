@@ -5,6 +5,7 @@
 	zoom: 1; 
 	position: relative; 
 	max-width:1524px;
+	max-height:1524px;
 	margin:0 auto;
 	z-index:100;
 	border:none;
