@@ -1160,7 +1160,7 @@ div.respond label img{
 .fullwidth > #wowslider-container1 {
   display: block;
   max-width: 100%;
-  max-height: 800px;
+  max-height: 360px;
 }
 [id*=wowslider-container] .ws_images > div > img,
 #wowslider-container .ws_images > div > img,
@@ -1168,7 +1168,7 @@ div.respond label img{
 .fullwidth > [id*=wowslider-container] .ws_images,
 .fullwidth > #wowslider-container .ws_images,
 .fullwidth > #wowslider-container1 .ws_images {
-  max-height: 800px;
+  max-height: 360px;
   max-width: none;
 }
 
