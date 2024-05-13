@@ -163,7 +163,7 @@
 @-webkit-keyframes wsBasic{0%{left:-0%} 6.67%{left:-0%} 10%{left:-100%} 16.67%{left:-100%} 20%{left:-200%} 26.67%{left:-200%} 30%{left:-300%} 36.67%{left:-300%} 40%{left:-400%} 46.67%{left:-400%} 50%{left:-500%} 56.67%{left:-500%} 60%{left:-600%} 66.67%{left:-600%} 70%{left:-700%} 76.67%{left:-700%} 80%{left:-800%} 86.67%{left:-800%} 90%{left:-900%} 96.67%{left:-900%} }
 
 #wowslider-container1 {
-	margin:5px auto 39px;
+	margin:0px auto 0px;
 }
 
 #wowslider-container1  .ws_shadow{
