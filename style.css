@@ -62,7 +62,7 @@
 	float:left;
 }
 #wowslider-container1  a.wsl{
-	display:none;
+	display:block;
 }
 #wowslider-container1 .ws_frame{
 	display:block;
